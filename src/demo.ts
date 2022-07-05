@@ -747,7 +747,6 @@ export const visualizationDemo: VisualizationT[] = [
                 appearance: 'date',
                 defaultOptions: [],
                 id: 'date',
-
                 changedChildOption: '',
                 multiple: false,
                 url: '',

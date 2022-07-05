@@ -1,12 +1,14 @@
 # root
 /node_modules
-/dist
+
 /.pnp
 .pnp.js
 
 # example
 /example/node_modules
-/example/dist
+/example/.cache
+/example/.parcel-cache
+
 
 # testing
 /coverage

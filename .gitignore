@@ -6,7 +6,8 @@
 
 # example
 /example/node_modules
-/example/.cache
+/example/.cache/
+/example/.cache/*
 /example/.parcel-cache
 
 
